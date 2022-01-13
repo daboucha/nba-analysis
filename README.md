@@ -20,7 +20,7 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
     - Turnover Rate (TO%)
     - Offensive Rating (ORTG)
     - Defensive Rating (DRTG)
-    - Effective Shooting Percentage (EFG%)
+    - Effective Shooting Percentage (eFG%)
     - PPG (Points per Game)
  
 **Questions we hope to answer by analyzing the data** 
@@ -29,3 +29,14 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 3. Top 5 players with most potential 
 4. Which team has the youngest average age of players 
 5. Which team could potential winners 
+
+## Provisional Machine Learning Model 
+
+Input: USG% (Usage Rate), TS% (Total Shooting Percentage), Versatility Index (VI)
+Output: Top 5 players with most potential 
+
+## Provisional Database
+
+<< INSERT MOCK DATABASE >> 
+
+Use SQL to mimic expected final database structure 
