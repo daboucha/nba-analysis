@@ -12,6 +12,10 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 - If we predict game outcomes with high accuracy we could profit from gambling
 
 **Description of the Data**
+
+Data Source:
+https://www.nbastuffer.com/2021-2022-nba-player-stats/
+
 - Broken down by year starting in 2008-2009 through to 2021-2022
 - Important columns that we will be examining throughout our analysis: 
     - Player Full Name
