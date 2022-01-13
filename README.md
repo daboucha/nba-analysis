@@ -22,13 +22,16 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
     - Defensive Rating (DRTG)
     - Effective Shooting Percentage (eFG%)
     - PPG (Points per Game)
- 
+
+Note: Players who are were drafted throughout the season will appear twice in the dataset on two different teams stats. 
+
 **Questions we hope to answer by analyzing the data** 
 1. Which players had the highest Offensive Rating 
 2. Which players had the highest Defensive Rating 
 3. Top 5 players with most potential 
 4. Which team has the youngest average age of players 
 5. Which team could potential winners 
+6. Which teams had the highest number of new players added to their team (trading)
 
 ## Provisional Machine Learning Model 
 **Example 1**
@@ -42,7 +45,6 @@ Output: Average Versatility Index per Team
 Input: USG% (Usage Rate), TS% (Total Shooting Percentage), Versatility Index (VI)
 
 Output: Top 5 players with most potential 
-
 
 ## Provisional Database
 
