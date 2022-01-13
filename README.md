@@ -31,9 +31,18 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 5. Which team could potential winners 
 
 ## Provisional Machine Learning Model 
+**Example 1**
+
+Input: Players, Team, Versatility Index (VI) 
+
+Output: Average Versatility Index per Team
+
+**Example 2**
 
 Input: USG% (Usage Rate), TS% (Total Shooting Percentage), Versatility Index (VI)
+
 Output: Top 5 players with most potential 
+
 
 ## Provisional Database
 
