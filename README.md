@@ -39,6 +39,14 @@ Note: Players who are were drafted throughout the season will appear twice in th
 
 ## Group Communication Protocols
 
+- Communication with Team Members via Slack App in our 'Group 4' Channel
+- Colboration at organized weekly meetings
+
+**Group Members & Roles**
+- Danny Abouchakra
+- Danielle Di Gioacchino
+- Shantanu Vaidya
+- Keshav Gupta
 
 ## Provisional Machine Learning Model 
 **Example 1**
