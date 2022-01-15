@@ -37,6 +37,10 @@ Note: Players who are were drafted throughout the season will appear twice in th
 5. Which team could potential winners 
 6. Which teams had the highest number of new players added to their team (trading)
 
+## Group Communication Protocols
+
+
+
 ## Provisional Machine Learning Model 
 **Example 1**
 
