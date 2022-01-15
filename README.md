@@ -13,8 +13,9 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 
 **Description of the Data**
 
-Data Source:
-https://www.nbastuffer.com/2021-2022-nba-player-stats/
+## Resources
+- Data Source: https://www.basketball-reference.com/
+- Software: Conda 4.10.3, Python 3.9.6, Jupyter-Notebook 6.3.0, Pandas 1.2.4, JavaScript 1.7, HTML 5, CSS/Bootstrap 4.0.0, Leaflet 1.7.1, D3.js v5, PostgreSQL 14.0, pgAdmin 4 5.7, Imbalanced-learn 0.8.1, Scikit-learn 1.0.1, Tensorflow 2.9.0, Keras-tuner 1.1.0
 
 - Broken down by year starting in 2008-2009 through to 2021-2022
 - Important columns that we will be examining throughout our analysis: 
