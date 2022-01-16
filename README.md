@@ -73,6 +73,7 @@ Output: Top 5 players with most potential
 
 ## Provisional Database
 
-<< INSERT MOCK DATABASE >> 
+First, we used SQL to import our data into 6 tables.
 
-Use SQL to mimic expected final database structure 
+![This is an image]()
+
