@@ -55,7 +55,8 @@ Note: Players who are were drafted throughout the season will appear twice in th
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/aefe6217b418ac2973c442410fb975d74abb8f4b/Data_Screenshot.png)
 
 **Questions we hope to answer by analyzing the data** 
-1.Will we be able to predict the outcome of a game based on a team's roster and player statistics?
+
+1. Will we be able to predict the outcome of a game based on a team's roster and player statistics?
 
 ## Group Communication Protocols
 
