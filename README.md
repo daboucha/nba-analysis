@@ -73,7 +73,7 @@ Output: Top 5 players with most potential
 
 ## Provisional Database
 
-First, we used SQL to import our data into 6 tables.
+We used SQL to import our data into 6 tables, since we had multiple csv files we were working with.
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/40ba51eedde106726031031336923a3146e1bd90/Image_Database/database.png)
 
