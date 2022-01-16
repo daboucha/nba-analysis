@@ -75,5 +75,5 @@ Output: Top 5 players with most potential
 
 First, we used SQL to import our data into 6 tables.
 
-![This is an image]()
+![This is an image](https://github.com/daboucha/to-be-determined/blob/40ba51eedde106726031031336923a3146e1bd90/Image_Database/database.png)
 
