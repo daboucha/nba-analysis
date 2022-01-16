@@ -26,7 +26,7 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 - Broken down by year starting in 2008-2009 through to 2021-2022
 - Important columns that we will be examining throughout our analysis: 
     - Player Full Name
-    - Team 
+    - Team (Tm)
     - Games Played (GP)
     - Turnover Rate (TO%)
     - Offensive Rating (ORTG)
