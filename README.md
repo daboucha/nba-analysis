@@ -57,6 +57,8 @@ Note: Players who are were drafted throughout the season will appear twice in th
 - Shantanu Vaidya
 - Keshav Gupta
 
+![This is an image]()
+
 ## Provisional Machine Learning Model 
 **Example 1**
 
