@@ -2,6 +2,8 @@
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
+Our goal with Module 20 First Segment Project Deliverable is to build a foundation for our NBA Anlysis. We have definied a purpose, found our data source, outilned our topic and determined our group communication protocols. We have started to prepare our data for our analysis, and included our provisional machine learning model and database. 
+
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy
 
