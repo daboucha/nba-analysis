@@ -34,7 +34,7 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 
 Note: Players who are were drafted throughout the season will appear twice in the dataset on two different teams stats. 
 
-![This is an image]()
+![This is an image](https://github.com/daboucha/to-be-determined/blob/aefe6217b418ac2973c442410fb975d74abb8f4b/Data_Screenshot.png)
 
 **Questions we hope to answer by analyzing the data** 
 1. Which players had the highest Offensive Rating 
