@@ -55,12 +55,11 @@ Note: Players who are were drafted throughout the season will appear twice in th
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/aefe6217b418ac2973c442410fb975d74abb8f4b/Data_Screenshot.png)
 
 **Questions we hope to answer by analyzing the data** 
-1. Which players had the highest Offensive Rating 
-2. Which players had the highest Defensive Rating 
+1. Which players had the highest Offensive Rating?
+2. Which players had the highest Defensive Rating?
 3. Top 5 players with most potential 
-4. Which team has the youngest average age of players 
-5. Which team could potential winners 
-6. Which teams had the highest number of new players added to their team (trading)
+4. Which team has the youngest average age of players?
+5. Which team could be potential winners?
 
 ## Group Communication Protocols
 
