@@ -1,4 +1,4 @@
-# NBA Analysis
+<h1 align="center">NBA Analysis - Module 20 First Segment Project Deliverable</h1>
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
@@ -56,8 +56,6 @@ Note: Players who are were drafted throughout the season will appear twice in th
 - Danielle Di Gioacchino
 - Shantanu Vaidya
 - Keshav Gupta
-
-![This is an image]()
 
 ## Provisional Machine Learning Model 
 **Example 1**
