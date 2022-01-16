@@ -70,17 +70,7 @@ Note: Players who are were drafted throughout the season will appear twice in th
 - Keshav Gupta
 
 ## Provisional Machine Learning Model 
-**Example 1**
-
-Input: Players, Team, Versatility Index (VI) 
-
-Output: Average Versatility Index per Team
-
-**Example 2**
-
-Input: USG% (Usage Rate), TS% (Total Shooting Percentage), Versatility Index (VI)
-
-Output: Top 5 players with most potential 
+Our goal is to use a logistic regression model to predict the outcome of game based on roster, and player statistical history. We will train the model with past game data. We may have to train and test multiple models to try and find what gives us higher accuracy with this type of data.
 
 ## Provisional Database
 
