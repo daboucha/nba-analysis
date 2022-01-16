@@ -1,5 +1,7 @@
 # NBA Analysis
 
+![This is an image]()
+
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy
 
