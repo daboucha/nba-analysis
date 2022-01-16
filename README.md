@@ -13,6 +13,11 @@ Using NBA data sets, our team will run supervised machine learning to answer whe
 ## Technologies
 - Software: Conda 4.10.3, Python 3.9.6, Jupyter-Notebook 6.3.0, Pandas 1.2.4, JavaScript 1.7, HTML 5, CSS/Bootstrap 4.0.0, Leaflet 1.7.1, D3.js v5, PostgreSQL 14.0, pgAdmin 4 5.7, Imbalanced-learn 0.8.1, Scikit-learn 1.0.1, Tensorflow 2.9.0, Keras-tuner 1.1.0
 
+To prepare our presentation of our final results we will be building a website to display our findings. This will require the use of:
+- Javascript 1.7
+- CSS/Bootstrap 4.0.0
+- HTML 5
+
 ## Topic Overview
 
 **Reasons we selected topic:**
