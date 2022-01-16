@@ -1,6 +1,6 @@
 # NBA Analysis
 
-![This is an image]()
+![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy
