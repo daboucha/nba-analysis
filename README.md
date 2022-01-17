@@ -93,7 +93,8 @@ Output:
 
 ## Provisional Database
 
-We used SQL to import our data into 6 tables, since we had multiple csv files we are working with.
+We used SQL to import our data into tables, since we had multiple csv files we are working with.
 
-![This is an image](https://github.com/daboucha/to-be-determined/blob/40ba51eedde106726031031336923a3146e1bd90/Image_Database/database.png)
+<img width="408" alt="two_tables" src="https://user-images.githubusercontent.com/86980240/149687246-9e1e7365-aa51-488a-b38e-75b2825a564f.png">
+
 
