@@ -38,21 +38,7 @@ To prepare our presentation of our final results we will be building a website t
 
 **Description of the Data**
 
-- Broken down by year starting in 2008-2009 through to 2021-2022
-- Important columns that we will be examining throughout our analysis: 
-    - Player Full Name
-    - Position 
-    - Team (Tm)
-    - Games Played (GP)
-    - Turnover Rate (TO%)
-    - Offensive Rating (ORTG)
-    - Defensive Rating (DRTG)
-    - Effective Shooting Percentage (eFG%)
-    - PPG (Points per Game)
 
-Note: Players who are were drafted throughout the season will appear twice in the dataset on two different teams stats. 
-
-![This is an image](https://github.com/daboucha/to-be-determined/blob/aefe6217b418ac2973c442410fb975d74abb8f4b/Data_Screenshot.png)
 
 **Questions we hope to answer by analyzing the data** 
 
@@ -70,6 +56,14 @@ Note: Players who are were drafted throughout the season will appear twice in th
 - Keshav Gupta
 
 ## Provisional Machine Learning Model 
+Our framework for the data:
+
+Game Statistics 
+![This is an image]()
+
+Player Statistics 
+![This is an image]()
+
 Our goal is to use a logistic regression model to predict the outcome of game based on roster, and player statistical history. We will train the model with past game data. We may have to train and test multiple models to try and find what gives us higher accuracy with this type of data.
 
 Inputs into our Model: 
