@@ -41,7 +41,8 @@ To prepare our presentation of our final results we will be building a website t
 There exists an abundance of data collected on players and teams in the NBA. 
 
 Currenty we collected data in the following format: 
-![This is an image]()
+
+![This is an image](https://github.com/daboucha/nba-analysis/blob/746bfa4cc6afd819601d72c40916d1176a737153/Data_Screenshot.png)
 
 Our plan is to reduce the data to the columns that are important to our analysis and give the columns more meaninful names. 
 The features we are going to highlight are: 
