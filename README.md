@@ -72,6 +72,12 @@ Note: Players who are were drafted throughout the season will appear twice in th
 ## Provisional Machine Learning Model 
 Our goal is to use a logistic regression model to predict the outcome of game based on roster, and player statistical history. We will train the model with past game data. We may have to train and test multiple models to try and find what gives us higher accuracy with this type of data.
 
+Inputs into our Model: 
+- Home Team PER (Player Efficiency Rating)
+- Home Team Win Shares
+- Away Team PER (Player Efficiency Rating)
+- Away Team Win Shares
+
 ## Provisional Database
 
 We used SQL to import our data into 6 tables, since we had multiple csv files we are working with.
