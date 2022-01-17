@@ -43,6 +43,9 @@ To prepare our presentation of our final results we will be building a website t
 **Questions we hope to answer by analyzing the data** 
 
 1. Will we be able to predict the outcome of a game based on a team's roster and player statistics?
+2. As we add more features to our data (for example: age or total points) will we be more successful at predicting the winner?
+3. Will certain player statistics be less or more important towards the accuracy of our prediction?
+4. Does including more years worth of player statistics help to better predict our outcome, versus just looking at the last season?
 
 ## Group Communication Protocols
 
