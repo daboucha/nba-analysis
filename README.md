@@ -62,7 +62,7 @@ Game Statistics
 ![This is an image](https://github.com/daboucha/nba-analysis/blob/c3af2167b048c92b632af7f2c017dba51a46393a/Game_Stat_Framework.png)
 
 Player Statistics 
-![This is an image]()
+![This is an image](https://github.com/daboucha/nba-analysis/blob/3ec253da2ae13437484ec22780ba998b42ddb944/Player_Stat_Framework.png)
 
 Our goal is to use a logistic regression model to predict the outcome of game based on roster, and player statistical history. We will train the model with past game data. We may have to train and test multiple models to try and find what gives us higher accuracy with this type of data.
 
