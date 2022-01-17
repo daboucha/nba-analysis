@@ -59,7 +59,7 @@ To prepare our presentation of our final results we will be building a website t
 Our framework for the data:
 
 Game Statistics 
-![This is an image]()
+![This is an image](https://github.com/daboucha/nba-analysis/blob/c3af2167b048c92b632af7f2c017dba51a46393a/Game_Stat_Framework.png)
 
 Player Statistics 
 ![This is an image]()
