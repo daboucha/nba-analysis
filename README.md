@@ -38,7 +38,19 @@ To prepare our presentation of our final results we will be building a website t
 
 **Description of the Data**
 
+There exists an abundance of data collected on players and teams in the NBA. 
 
+Currenty we collected data in the following format: 
+![This is an image]()
+
+Our plan is to reduce the data to the columns that are important to our analysis and give the columns more meaninful names. 
+The features we are going to highlight are: 
+- Home Team PER (Player Efficiency Rating)
+- Home Team Win Shares
+- Away Team PER (Player Efficiency Rating)
+- Away Team Win Shares
+
+As we build and create our model we may plan to add other features to our data that may have an impact at increasing accuracy at predicting a winner. Such as age, total points, or 3-point percentage. 
 
 **Questions we hope to answer by analyzing the data** 
 
