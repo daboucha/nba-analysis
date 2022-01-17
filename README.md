@@ -78,6 +78,9 @@ Inputs into our Model:
 - Away Team PER (Player Efficiency Rating)
 - Away Team Win Shares
 
+Output: 
+- Winning Team
+
 ## Provisional Database
 
 We used SQL to import our data into 6 tables, since we had multiple csv files we are working with.
