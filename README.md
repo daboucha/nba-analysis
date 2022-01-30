@@ -97,4 +97,23 @@ We used SQL to import our data into tables, since we had multiple csv files we a
 
 <img width="408" alt="two_tables" src="https://user-images.githubusercontent.com/86980240/149687246-9e1e7365-aa51-488a-b38e-75b2825a564f.png">
 
+## Coding
+
+## Imported the dependencies
+
+## Data collection
+Data has been collected using the web scaring technique. The website used to scrap data is www.basketball-reference.com.
+We are collecting the data of all the teams playing basketball and all their players.
+
+## Data Cleaning
+Once the data has been collected we start cleaning the data by dropping rows and columns which we do not require to analyze or represent the data.
+For example, we only need the data after 2016 for players so we run a loop to save only that data. Similarly, we collect the data for the 30 teams playing in NBA and the rest of the data is dropped.
+We convert all the numeric data is in numeric form which was previously in object form.
+
+Collected data which is in dictionary form is not put in panda's dataframe so that it is easier to understand and analyse data.
+Once we have all the data in dataframe we save it in CSV files.
+
+## Data Prediction
+Before prediction we average out the team stats to 240 minutes a game.
+Then we tried multiple prediction models and after checking each of their accuracy and time taken to predict we narrowed it down to multiple linear regression model, which gave us an accuracy of 65%.
 
