@@ -102,7 +102,7 @@ We used SQL to import our data into tables, since we had multiple csv files we a
 ## Imported the dependencies
 
 ## Data collection
-Data has been collected using the web scaring technique. The website used to scrap data is www.basketball-reference.com.
+Data has been collected using the web scraping technique. The website used to scrap data is www.basketball-reference.com.
 We are collecting the data of all the teams playing basketball and all their players.
 
 ## Data Cleaning
