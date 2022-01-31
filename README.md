@@ -117,3 +117,5 @@ Once we have all the data in dataframe we save it in CSV files.
 Before prediction we average out the team stats to 240 minutes a game.
 Then we tried multiple prediction models and after checking each of their accuracy and time taken to predict we narrowed it down to multiple linear regression model, which gave us an accuracy of 65%.
 
+Link to Google Slides [https://docs.google.com/presentation/d/1X7IbXNPzlMzLPIEUK1mHQ7Bocg6VvR_WoTUrzYmuRhA/edit?usp=sharing]
+
