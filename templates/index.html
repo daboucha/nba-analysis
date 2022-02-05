@@ -123,28 +123,23 @@
     </section><!-- End Clients Section -->
 
   <!-- ======= Danny's Code ======= -->
-  <div class="team-rosters-container">
-    <div class="well">
-      <div class="section-title" data-aos="fade-up">
-        <h2>TEAM ROSTERS</h2>
-      </div>
-      <!-- <select id="selDataset"></select> -->
-      <select id="selDataset" onchange="optionChanged(this.value)"></select>
-    </div>
-    <form method="POST" action="{{url_for('index')}}">
-      <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">PLAYERS {{ score }}</h3>
-        </div>
-        <div>
-          <select id="players" multiple size="15"></select>
-        </div>
-      </div>
-      <div>
-        <button id="predict">Predict Score</button>
-      </div>
-    </form>
+  <div class="well">
+    <h5>Team Rosters: {{ score }}</h5>
+    <!-- <select id="selDataset"></select> -->
+    <select id="selDataset" onchange="optionChanged(this.value)"></select>
   </div>
+
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h3 class="panel-title" >Players</h3>
+    </div>      
+    <form method="POST" action="{{url_for('index')}}"> 
+      <select name="players" id="players" multiple size="15"></select>   
+      <button id="predict">Predict Score</button>     
+    </form>
+    </div>
+  </div>  
+  
   <!-- For loop logic of jinja template -->
   <ol>
     {%for i in range(0, len)%}
