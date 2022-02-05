@@ -1,4 +1,4 @@
-<h1 align="center">NBA Analysis - Module 20 First Segment Project Deliverable</h1>
+<h1 align="center">NBA Analysis - Module 20 Third Segment Project Deliverable</h1>
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
