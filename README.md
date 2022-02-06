@@ -71,6 +71,10 @@ As we build and create our model we may plan to add other features to our data t
 - Shantanu Vaidya
 - Keshav Gupta
 
+## Group Communication Protocols
+
+
+
 ## Provisional Machine Learning Model 
 Our framework for the data:
 
