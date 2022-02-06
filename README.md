@@ -2,7 +2,7 @@
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
-<p align="center">Our goal with Module 20 Third Segment Project Deliverable is to build a foundation for our NBA Analysis. We have defined a purpose, found our data source, outlined our topic and determined our group communication protocols. We have started to prepare our data for our analysis, and included our provisional machine learning model and database.</p>
+<p align="center">Our goal with Module 20 Third Segment Project Deliverable is to finalize our dashboard and Machine Learning Model for our NBA Analysis. We have defined a purpose, found our data source, outlined our topic and determined our group communication protocols. Our website is designed and running and connects to the prediction model we created.</p>
 
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy.
@@ -71,9 +71,13 @@ As we build and create our model we may plan to add other features to our data t
 - Shantanu Vaidya
 - Keshav Gupta
 
-## Group Communication Protocols
+## Dashboard 
 
+We decided we wanted to have our interactive model displayed through a webpage powered by Flask. We were able to connect our prediction model to our website and have a functioning button labelled "Let's Predict". Users can interact with our website, by first selecting a team, second selecting a list of players and finally predicting the outcome score of the game.
 
+![This is an image]()
+
+![This is an image]()
 
 ## Provisional Machine Learning Model 
 Our framework for the data:
