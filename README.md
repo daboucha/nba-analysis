@@ -75,7 +75,7 @@ As we build and create our model we may plan to add other features to our data t
 
 We decided we wanted to have our interactive model displayed through a webpage powered by Flask. We were able to connect our prediction model to our website and have a functioning button labelled "Let's Predict". Users can interact with our website, by first selecting a team, second selecting a list of players and finally predicting the outcome score of the game.
 
-![This is an image]()
+![This is an image](https://github.com/daboucha/nba-analysis/blob/3588fc54272c0ba3b563043dc9eae6ff1635c45c/Website-Screenshot.png)
 
 ![This is an image](https://github.com/daboucha/nba-analysis/blob/416d8f9f3ece5e15325f27999722625f9a2ecab8/Lets-Predict-Button.png)
 
