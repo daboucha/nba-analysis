@@ -99,7 +99,8 @@ Output:
 
 We used SQL to import our data into tables, since we had multiple csv files we are working with.
 
-<img width="408" alt="two_tables" src="https://user-images.githubusercontent.com/86980240/149687246-9e1e7365-aa51-488a-b38e-75b2825a564f.png">
+<img width="216" alt="total_tables" src="https://user-images.githubusercontent.com/86980240/152706189-be1d8698-78a2-41ff-a73f-f0e819503251.png">
+
 
 ## Coding and Project Outline
 
