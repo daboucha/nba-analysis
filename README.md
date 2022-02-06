@@ -2,7 +2,7 @@
 
 ![This is an image](https://github.com/daboucha/to-be-determined/blob/a6d32efad004fe892e9dc237b41719ccbfcfdbec/NBA_Image.jpeg)
 
-<p align="center">Our goal with Module 20 Third Segment Project Deliverable is to finalize our dashboard and Machine Learning Model for our NBA Analysis. We have defined a purpose, found our data source, outlined our topic and determined our group communication protocols. Our website is designed and running and connects to the prediction model we created.</p>
+<p align="center">Our goal with Module 20 Third Segment Project Deliverable is to build a foundation for our NBA Analysis. We have defined a purpose, found our data source, outlined our topic and determined our group communication protocols. We have started to prepare our data for our analysis, and included our provisional machine learning model and database.</p>
 
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy.
@@ -101,25 +101,40 @@ We used SQL to import our data into tables, since we had multiple csv files we a
 
 <img width="408" alt="two_tables" src="https://user-images.githubusercontent.com/86980240/149687246-9e1e7365-aa51-488a-b38e-75b2825a564f.png">
 
-## Coding
+## Coding and Project Outline
 
 ## Imported the dependencies
 
 ## Data collection
-Data has been collected using the web scraping technique. The website used to scrap data is www.basketball-reference.com.
-We are collecting the data of all the teams playing basketball and all their players.
+Data has been collected using the web scraping technique. The website used to scrape data is www.basketball-reference.com. We are collecting the data of all the teams playing basketball and all their players.
 
 ## Data Cleaning
-Once the data has been collected we start cleaning the data by dropping rows and columns which we do not require to analyze or represent the data.
-For example, we only need the data after 2016 for players so we run a loop to save only that data. Similarly, we collect the data for the 30 teams playing in NBA and the rest of the data is dropped.
-We convert all the numeric data is in numeric form which was previously in object form.
+Once the data was collected, we started cleaning the data by dropping rows and columns which we do not require to analyze or represent the data. 
 
-Collected data which is in dictionary form is not put in panda's dataframe so that it is easier to understand and analyse data.
-Once we have all the data in dataframe we save it in CSV files.
+<img width="837" alt="dropping_columns" src="https://user-images.githubusercontent.com/86980240/152705846-27c3d464-5102-4f15-9f14-9dd1d7afd228.png">
 
-## Data Prediction
-Before prediction we average out the team stats to 240 minutes a game.
-Then we tried multiple prediction models and after checking each of their accuracy and time taken to predict we narrowed it down to multiple linear regression model, which gave us an accuracy of 65%.
+For example, we only need the data after 2016 for players so we run a loop to save only that data. Similarly, we collected the data for the 30 teams playing in NBA and the rest of the data was dropped. We converted all the data to numeric form which was previously in object form. Collected data which is in dictionary form is put in panda's dataframe so that it is easier to understand and analyse data.
+
+# DataBase Integration
+
+The raw dataset was converted to dataframe and was exported to SQL Database using SQLAlchemy. Since we wanted to keep all the raw data, we created different tables and populated with creating databse engine connection. We created separate tables in our database which we used as our input data for our supervised machine learning model. 
+
+<img width="525" alt="database_engine" src="https://user-images.githubusercontent.com/86980240/152706019-18fa76a5-ddb6-42b7-bc8e-32d5d2f9332d.png">
+
+<img width="517" alt="database_input" src="https://user-images.githubusercontent.com/86980240/152706030-8b1ddb94-55e2-420f-84d9-3dbd8ce36de2.png">
+
+## Data Prediction with Machine Learning
+
+We considered data from last 10 years and data had individual game statistics. The model we went with was multiple linear model as it uses several explanatory variables to predict the outcome. The feature selection and engineering when came to the players statistics was based on the data we got from each game. For the training data we used scikit learn model (train test split), so we used that to test the model. We also tried a few prediction models such as random forest regression and multiple linear regression model. We knew based on data and what we are trying to predict we were looking for linear correlation. We are not classifying data and we knew it was supervised learning, so we started testing some of the model and got similar results.
+
+<img width="746" alt="data_machine_learning" src="https://user-images.githubusercontent.com/86980240/152706061-ca305aca-278a-4ef2-8f11-4a1ceea1b5cc.png">
+
+# Prediction Outcome
+
+Before prediction we average out the team stats to 240 minutes a game. Then we tried multiple prediction models and after checking each of their accuracy and time taken to predict we narrowed it down to multiple linear regression model, which gave us an accuracy of 65%.
+
+<img width="449" alt="data_predictionScore" src="https://user-images.githubusercontent.com/86980240/152706084-be019b06-4722-4446-8bec-1719d7dc4472.png">
+
 
 [Link to Google Slides](https://docs.google.com/presentation/d/1X7IbXNPzlMzLPIEUK1mHQ7Bocg6VvR_WoTUrzYmuRhA/edit?usp=sharing)
 
