@@ -77,7 +77,7 @@ We decided we wanted to have our interactive model displayed through a webpage p
 
 ![This is an image]()
 
-![This is an image]()
+![This is an image](https://github.com/daboucha/nba-analysis/blob/416d8f9f3ece5e15325f27999722625f9a2ecab8/Lets-Predict-Button.png)
 
 ## Provisional Machine Learning Model 
 Our framework for the data:
