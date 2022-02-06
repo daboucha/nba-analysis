@@ -60,11 +60,6 @@ As we build and create our model we may plan to add other features to our data t
 3. Will certain player statistics be less or more important towards the accuracy of our prediction?
 4. Does including more years worth of player statistics help to better predict our outcome, versus just looking at the last season?
 
-## Group Communication Protocols
-
-- Communication with Team Members via Slack App in our 'Group 4' Channel
-- Colaboration at organized weekly meetings
-
 **Group Members & Roles**
 - Danny Abouchakra
 - Danielle Di Gioacchino
