@@ -122,7 +122,7 @@ For example, we only need the data after 2016 for players so we run a loop to sa
 
 # DataBase Integration
 
-The raw dataset was converted to dataframe and was exported to SQL Database using SQLAlchemy. Since we wanted to keep all the raw data, we created different tables and populated with creating databse engine connection. We created separate tables in our database which we used as our input data for our supervised machine learning model. 
+The raw dataset was converted to dataframe and was exported to SQL Database using SQLAlchemy. We used SQL as it is convenient to store, retrieve large amount of data from database and easy to connect to pandasSince we wanted to keep all the raw data, we created different tables and populated with creating databse engine connection. We created separate tables in our database which we used as our input data for our supervised machine learning model. 
 
 <img width="525" alt="database_engine" src="https://user-images.githubusercontent.com/86980240/152706019-18fa76a5-ddb6-42b7-bc8e-32d5d2f9332d.png">
 
