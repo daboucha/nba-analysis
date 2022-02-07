@@ -52,8 +52,6 @@ There exists an abundance of data collected on players and teams in the NBA. All
 - Shantanu Vaidya (database manager)
 - Keshav Gupta (group organizer, and administrator)
 
-<<<<<<< HEAD
-=======
 ## Dashboard 
 
 We decided we wanted to have our interactive model displayed through a webpage powered by Flask. We were able to connect our prediction model to our website and have a functioning button labelled "Predict Score". Users can interact with our website, by first selecting a team, second selecting a list of players and finally predicting the outcome score of the game.
@@ -62,7 +60,6 @@ We decided we wanted to have our interactive model displayed through a webpage p
 
 ![This is an image](images/Lets-Predict-Button.png)
 
->>>>>>> e9124c4d85c73a75d807fc82c19c874aad7cceca
 ## Provisional Machine Learning Model 
 Our framework for the data:
 
@@ -96,11 +93,8 @@ We used SQL to import our data into tables, since we had multiple csv files we a
 <img width="216" alt="total_tables" src="https://user-images.githubusercontent.com/86980240/152706189-be1d8698-78a2-41ff-a73f-f0e819503251.png">
 
 
-<<<<<<< HEAD
-=======
 ## Coding and Project Outline
 
->>>>>>> e9124c4d85c73a75d807fc82c19c874aad7cceca
 ## Data collection
 Data has been collected using the web scraping technique. The website used to scrape data is www.basketball-reference.com. We are collecting the data of all the teams playing basketball and all their players.
 
