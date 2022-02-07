@@ -1,8 +1,6 @@
-<h1 align="center">NBA Analysis - Module 20 Third Segment Project Deliverable</h1>
+<h1 align="center">NBA Analysis</h1>
 
 ![This is an image](images/NBA_Image.jpeg)
-
-<p align="center">Our goal with Module 20 Third Segment Project Deliverable is to finalize our dashboard and Machine Learning Model for our NBA Analysis. We have defined a purpose, found our data source, outlined our topic and determined our group communication protocols. Our website is designed and running and connects to the prediction model we created.</p>
 
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy.
