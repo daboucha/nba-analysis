@@ -1,13 +1,12 @@
 ## Machine Learning Model
 Q. Description of Data Preprocessing.
 
-A. We web scraped the data from the website and getting data from NBA.com api. Luckily, we did not have to deal with missing data although we had to watch out for players that had zero of all stats or with the same name. We stored the data into dictionaries and dataframes. We dropped the columns not necessary for the prediction model. Creating new dataframes like average of each players for individual year and a new dataframes for their last 5years average.
+A. We web scraped the data from the website and getting data from NBA.com api. Luckily, we did not have to deal with missing data although we had to watch out for players that had zero for all stats or players with the same name. We stored the data into dictionaries and dataframes. We dropped the columns not necessary for the prediction model. Creating new dataframes like average of each players for individual year and a new dataframes for their last 5years average.
 
 
 Q. Description of feature engineering and the feature selection, including decision making process
 
-A. How we ended up getting training data and testing data helped the in the decision process. The training data was taken from nba.com api and the data had each individual game stats total. Since older data was irrelevant we took only the last 10 years data of each and every game individually and dropped the unnecessary columns from there and ran the machine learning algorithm with that data. The model we used was multiple linear model. 
-The feature selection and engineering when came to the players statistics was based on the data we got from each game. We used the same statistic as game data and negated the advance statistic for each player.
+A. The training data was gathered from an nba.com api and the data had every NBA game's total statistics for each team. Since older data was likely to be less accurate at predicting current NBA games, we took only the last 10 years data of each and every game individually. We were fortunate to have complete data, so there were no null values which needed to be predicted during the feature engineering process. With the complete data set ready, we continued the feature engineering process by dropping all categorical values. After that we had to drop certain numerical value columns which displayed the Field Goals Made during the game, as this number directly translates to the Points column and would overtrain our model. Lastly we dropped any redundant columns, which displayed duplicate information with another column, leaving us with our target column and features required for our machine learning model.
 
 
 Q. Description of how data was split into training and testing sets 

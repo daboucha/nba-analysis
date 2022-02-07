@@ -6,7 +6,7 @@
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy.
 
 ## Resources
-- Data Source: https://www.basketball-reference.com/
+- Data Source: https://www.nba.com/, https://www.basketball-reference.com/
 
 ## Technologies
 To transform our data, build our machine learning model (including importing different libraries) and store our data we will be using the following:
