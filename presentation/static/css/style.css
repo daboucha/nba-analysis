@@ -1385,13 +1385,15 @@ section {
 
 .team-rosters-container,
 .team-rosters-container .well,
-.team-rosters-container .panel {
+.team-rosters-container .panel, 
+.rosters-form { 
   display:flex;
   flex-direction:column;
   align-items:center;
 }
 
-.team-rosters-container {
+.team-rosters-container,
+.score-prediction {
   margin-top: 12px;
 }
 
@@ -1401,4 +1403,12 @@ section {
 
 .team-rosters-container .panel-title {
   color: #5faee3;
+}
+
+.team-rosters-container #predict {
+  margin-top: 8px;
+}
+
+.team-rosters-container #players {
+  width: 250px;
 }
