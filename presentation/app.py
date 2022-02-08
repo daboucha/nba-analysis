@@ -9,9 +9,9 @@ app = Flask(__name__)
 def index(score = '', data=[]):
     if request.method == "POST":  
         data = request.form.getlist('players')
-        
-        y_pred = predictScore(data)
-        score=y_pred
+        if data:
+            y_pred = predictScore(data)
+            score=y_pred
     
     return render_template('index.html', score=score, data=data, len=len(data))
 
