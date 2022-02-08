@@ -15,6 +15,7 @@ To transform our data, build our machine learning model (including importing dif
 - Jupyter-Notebook 6.3.0
 - Pandas 1.2.4 
 - Scikit-learn 1.0.1
+- nba_api 1.1.11 (https://github.com/swar/nba_api)
 - PostgreSQL 14.0
 - pgAdmin 4 5.7
 
