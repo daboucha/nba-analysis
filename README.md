@@ -22,7 +22,7 @@ To prepare our presentation of our final results we will be building a website t
 - Javascript 1.7
 - CSS/Bootstrap 4.0.0
 - HTML 5
-- Leaflet 1.7.1, D3.js v5
+- D3.js v5
 
 ## Topic Overview
 
