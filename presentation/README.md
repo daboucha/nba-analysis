@@ -1,6 +1,6 @@
 <h1 align="center">NBA Analysis</h1>
 
-![This is an image](../images/NBA_Image.jpeg)
+![This is an image](images/NBA_Image.jpeg)
 
 ## Purpose
 Using NBA data sets, our team will run supervised machine learning to answer whether or not the outcome of a game can be predicted with high accuracy.
@@ -22,7 +22,8 @@ To prepare our presentation of our final results we will be building a website t
 - Javascript 1.7
 - CSS/Bootstrap 4.0.0
 - HTML 5
-- Leaflet 1.7.1, D3.js v5
+- D3.js v5
+- Flask 1.1.2
 
 ## Topic Overview
 
@@ -36,7 +37,7 @@ To prepare our presentation of our final results we will be building a website t
 
 There exists an abundance of data collected on players and teams in the NBA. All data used can be located in the data folder.
 
-![This is an image](../images/game_table.png)
+![This is an image](images/game_table.png)
 
 **Questions we hope to answer by analyzing the data** 
 
@@ -54,18 +55,18 @@ There exists an abundance of data collected on players and teams in the NBA. All
 
 We decided we wanted to have our interactive model displayed through a webpage powered by Flask. We were able to connect our prediction model to our website and have a functioning button labelled "Predict Score". Users can interact with our website, by first selecting a team, second selecting a list of players and finally predicting the outcome score of the game.
 
-![This is an image](../images/Website-Screenshot.png)
+![This is an image](images/Website-Screenshot.png)
 
-![This is an image](../images/Lets-Predict-Button.png)
+![This is an image](images/Lets-Predict-Button.png)
 
 ## Provisional Machine Learning Model 
 Our framework for the data:
 
 Game Statistics 
-![This is an image](../images/game_feature_input.png)
+![This is an image](images/game_feature_input.png)
 
 Player Statistics 
-![This is an image](../images/Data_Screenshot.png)
+![This is an image](images/Data_Screenshot.png)
 
 Our goal is to use a linear regression model to predict the outcome of game based on roster, and player statistical history. We will train the model with past game data. We may have to train and test multiple models to try and find what gives us higher accuracy with this type of data.
 

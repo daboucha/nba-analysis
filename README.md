@@ -23,6 +23,7 @@ To prepare our presentation of our final results we will be building a website t
 - CSS/Bootstrap 4.0.0
 - HTML 5
 - D3.js v5
+- Flask 1.1.2
 
 ## Topic Overview
 
