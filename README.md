@@ -128,5 +128,5 @@ Before prediction we average out the team stats to 240 minutes a game. Then we t
 To present our findings, we used JavaScript, Flask and HTML. We built an interactive webpage by connecting our model.
 
 
-[Link to Google Slides](https://docs.google.com/presentation/d/1X7IbXNPzlMzLPIEUK1mHQ7Bocg6VvR_WoTUrzYmuRhA/edit#slide=id.g1131cebcbb8_3_40)
+[Link to Google Slides](https://docs.google.com/presentation/d/1X7IbXNPzlMzLPIEUK1mHQ7Bocg6VvR_WoTUrzYmuRhA/edit?usp=sharing)
 
